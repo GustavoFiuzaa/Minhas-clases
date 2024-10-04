@@ -73,9 +73,8 @@
 
         <section>
             <h2>Entre em contato comigo</h2>
-            <p class="contacto">Você pode me contatar pelo telefone ou e-mail:</p>
-            <p class="contacto">Telefone: <a href="tel:+551111111111">11 11111-1111</a></p>
-            <p class="contacto">E-mail: <a href="mailto:2gfiuza@gmail.com">2gfiuza@gmail.com</a></p>
+            <p class="contacto">Você pode me contatar pelo meu Instagram:</p>
+            <p class="contacto"><a href="https://instagram.com/kiwizz.v" target="_blank">@kiwizz.v</a></p>
         </section>
     </main>
 
@@ -85,3 +84,4 @@
 
 </body>
 </html>
+
